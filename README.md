@@ -18,7 +18,6 @@ python twitter_dl.py -url [target url page] -u [your email or username] -p [your
 
 # notes
 - if you run the script for the first time, it may ask you for the confirmation code that sent to your email
-<br>
 - I think the browser/driver compatibility is the only issue you may face
 - please let me know if you had any issues with the script
 
