@@ -5,7 +5,7 @@ download all user media and favorites by user URL page
 you should check your chrome version if it is compatible with chromedriver.exe
 <br>
 if your browser version is not compatible with the driver, you should download a new driver that works with you
-<br>
+<br><br>
 chrome driver download page: https://chromedriver.chromium.org/downloads
 
 # usage
